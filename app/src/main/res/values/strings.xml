@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Netfilmes</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="similar">Opções Semelhamtes</string>
+    <string name="elenco">Michael B. Jordan como Adonis Creed,
+Sylvester Stallone como Rocky Balboa,
+Tessa Thompson como Bianca Taylor,
+Dolph Lundgren como Ivan Drago,
+Florian "Big Nasty" Munteanu como Viktor Drago,
+Phylicia Rashad como Mary Anne Creed,
+Wood Harris como Little Duke,
+Andre Ward como Stuntman,
+Brigitte Nielsen como Ludmilla Drago,
+Milo Ventimiglia como Rocky Balboa Jr.
+Russell Hornsby como Buddy Marcelle</string>
+    <string name="desc_creed">Adonis enfrenta o maior desafio de sua vida: um inimigo que está ligado ao passado de sua família. Ao lado de Rocky Balboa, eles enfrentam o passado para descobrir pelo quê vale a pena lutar.</string>
+</resources>
